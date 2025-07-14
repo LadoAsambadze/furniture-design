@@ -1,13 +1,13 @@
 .div1 {
   width: 500px;
   height: 500px;
-  background-color: green;
+  background-color: yellow;
 }
 
 .div2 {
   width: 100px;
   height: 100px;
-  background-color: red;
+  background-color: blue;
   position: fixed;
 
   top: 200px;
