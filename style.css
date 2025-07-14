@@ -1,0 +1,24 @@
+.div1 {
+  width: 500px;
+  height: 500px;
+  background-color: green;
+}
+
+.div2 {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  position: fixed;
+
+  top: 200px;
+}
+
+.div0 {
+  width: 800px;
+  height: 800px;
+  background-color: paleturquoise;
+}
+
+h1 {
+  z-index: 9999px;
+}
